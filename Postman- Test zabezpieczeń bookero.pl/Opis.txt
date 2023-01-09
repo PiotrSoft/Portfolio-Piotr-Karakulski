@@ -1,0 +1,1 @@
+Tytaj sprawdzeniłem na stronie bookero.pl zabezpieczenie czy nie zaologany użytkownik bedzie mogł wprowadzić jakiekolweik zmiany bez zalogowania.
