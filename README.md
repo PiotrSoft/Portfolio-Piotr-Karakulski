@@ -16,7 +16,7 @@ Cześć!
 - Cypres (Java)
 - WebdriverIO + Typescript 
 - Jenkins (Java)
-- Testowanie Api Postman
+- Testowanie Rest Api Postman
 - Docker
 
 	Dodatkowo pragnę nadmienić, że mam zaczęty kurs z zakresu ISTQB Faundation Level i z 
