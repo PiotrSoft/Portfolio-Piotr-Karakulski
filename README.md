@@ -11,7 +11,6 @@ Cześć!
 	z SQL-a oraz udoskonalania tego co już umiem, planuję poszerzać swoją wiedzę wraz z 
 	umiejętnościami na już wykupionych kursach do wymarzonego przeze mnie poziomu Testera 
 	Automatyzującego z zakreu:
-
 - Selenium (Java)
 - Cypres (Java)
 - WebdriverIO + Typescript 
@@ -19,12 +18,10 @@ Cześć!
 - Testowanie Api Postman
 - Docker
 
-Mam zaczęty kurs z zakresu ISTQB Faundation Level.
-
-	Dodatkowo pragnę nadmienić żę z ukończenia w/w kursów bedę posiadał Certyfikaty. W 
-	połączniu wykształceniem Informatycznym oraz wiedzą udkoumentowaną na tym repozytorium 
-	Github i zdobytym doświadczeniu w Państwa Firmie będę jeszcze bardziej wartościowym 
-	członkiem zespołu. 
+	Dodatkowo pragnę nadmienić, że mam zaczęty kurs z zakresu ISTQB Faundation Level i z 
+	ukończenia w/w kursów bedę posiadał Certyfikaty. W połączniu z wykształceniem 
+	Informatycznym oraz wiedzą udkoumentowaną na tym repozytorium Github jak i zdobytym 
+	doświadczeniu w Państwa Firmie będę jeszcze bardziej wartościowym złonkiem zespołu. 
 	Dziekuję za poświęcony czas na zapoznanie się z materiałami umieszczonymi na moim 
 	repozytorium Github.
 
