@@ -10,7 +10,8 @@ Cześć!
 	sortowaniem, tworzyć warunki jak i reguły.Jestem w trakcie szlifowania moich umiejętności 
 	z SQL-a oraz udoskonalania tego co już umiem, planuję poszerzać swoją wiedzę wraz z 
 	umiejętnościami na już wykupionych kursach do wymarzonego przeze mnie poziomu Testera 
-	Automatyzującego z zakreu:
+	Automatyzującego z zakresu:
+	
 - Selenium (Java)
 - Cypres (Java)
 - WebdriverIO + Typescript 
@@ -25,5 +26,5 @@ Cześć!
 	Dziekuję za poświęcony czas na zapoznanie się z materiałami umieszczonymi na moim 
 	repozytorium Github.
 
-Pozdrawiam Serdecznie
+Pozdrawiam Serdecznie 
 Piotr Karakulski
