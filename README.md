@@ -28,7 +28,5 @@ Mam zaczęty kurs z zakresu ISTQB Faundation Level.
 	Dziekuję za poświęcony czas na zapoznanie się z materiałami umieszczonymi na moim 
 	repozytorium Github.
 
-
-
 Pozdrawiam Serdecznie
 Piotr Karakulski
