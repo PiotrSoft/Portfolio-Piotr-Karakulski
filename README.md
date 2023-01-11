@@ -2,6 +2,31 @@
 
 Cześć!
 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	Witam serdecznie na moim repozytorium Github, umieściłem tutaj przykłady z użycia do tych 
 	czas zdobytej wiedzy i umiejętności w zakresie Testera Manualnego QA, moim  dodatkowym 
 	atutem jest praktyczna znajomość SQL-a, w którym swobodnie potrafię się poruszać po 
