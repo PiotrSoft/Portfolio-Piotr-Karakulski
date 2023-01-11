@@ -22,7 +22,7 @@ Cześć!
 Mam zaczęty kurs z zakresu ISTQB Faundation Level.
 
 	Dodatkowo pragnę nadmienić żę z ukończenia w/w kursów bedę posiadał Certyfikaty. W 
-	połączniu wykształceniem informatycznym oraz wiedzą udkoumentowaną na tym repozytorium 
+	połączniu wykształceniem Informatycznym oraz wiedzą udkoumentowaną na tym repozytorium 
 	Github i zdobytym doświadczeniu w Państwa Firmie będę jeszcze bardziej wartościowym 
 	członkiem zespołu. 
 	Dziekuję za poświęcony czas na zapoznanie się z materiałami umieszczonymi na moim 
