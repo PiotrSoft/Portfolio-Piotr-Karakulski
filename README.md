@@ -9,17 +9,17 @@ Cześć!
 	tabel, lub całe tabele oraz pobierać rekordy w kontekście ważnych informacji z odpowienim 
 	sortowaniem, tworzyć warunki jak i reguły. Dodatkowo znam podstawowe zagadnienia takie 
 	jak testowanie statyczne (analiza dokumentacji i specyfikacji oraz wymagań klienta) a także 
-	tetowanie exploracyjne jak i testowanie dynamiczne (uruchomienie już dziłąjącego kodu w 
-	celu wykrycia defektów i awarii), Jestem w trakcie szlifowania moich umiejętności z SQL-a 
-	oraz udoskonalania tego co już umiem, planuję poszerzać swoją wiedzę wraz z umiejętnościami 
-	na już wykupionych kursach do wymarzonego przeze mnie poziomu Testera Automatyzującego 
-	z zakresu:
+	tetowanie exploracyjne jak i testowanie dynamiczne (uruchomienie już działąjącego kodu lub 
+	zaimplementowanego komponentu/funkcjonalności w celu wykrycia defektów i awarii) i nie tylko.
+	Jestem w trakcie szlifowania moich umiejętności z SQL-a oraz udoskonalania tego co już umiem, 
+	planuję poszerzać swoją wiedzę wraz z umiejętnościami na już wykupionych kursach do wymarzonego 
+	przeze mnie poziomu Testera Automatyzującego z zakresu:
 	
 	- Selenium (Java)
 	- Cypres (Java)
 	- WebdriverIO + Typescript 
 	- Jenkins (Java)
-	- Testowanie Rest Api Postman
+	- Testowanie Rest Api Postman 
 	- Docker
 
 	Dodatkowo pragnę nadmienić, że mam zaczęty kurs z zakresu ISTQB Foundation Level (będzie do 
