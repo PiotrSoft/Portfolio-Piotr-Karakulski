@@ -14,7 +14,7 @@ Cześć!
 	zaimplementowanego komponentu/funkcjonalności w celu wykrycia błędów, defektów i awarii). 
 	Codziennie systematycznie szlifuję swoje umiejętności. Planuję też poszerzać swoją wiedzę wraz z 
 	umiejętnościami na już wykupionych kursach, do wymarzonego przeze mnie poziomu Testera 
-	**Automatyzującego** z zakresu:
+	Automatyzującego z zakresu:
 	
 	- Selenium (Java)
 	- Cypres (Java)
