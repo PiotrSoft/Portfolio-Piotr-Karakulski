@@ -25,10 +25,10 @@ Cześć!
 
 	Dodatkowo pragnę nadmienić, że mam zaczęty kurs z zakresu ISTQB Foundation Level, z ukończenia w/w 
 	kursów bedę posiadał Certyfikaty. W połączniu z wykształceniem Informatycznym oraz wiedzą 
-	udkoumentowaną na tym repozytorium Github, jak i zdobytym doświadczeniu w Państwa Firmie będę jeszcze 
-	bardziej wartościowym członkiem zespołu. Zanim zacząłem mój pierwszy kurs nie wiedziałem że testowanie 
-	stanie sie moją pasją. Dziekuję za poświęcony czas na zapoznanie się z materiałami umieszczonymi na moim 
-	repozytorium Github.
+	udkoumentowaną na tym repozytorium Github, jak i zdobytym doświadczeniu w Państwa Firmie będę 
+	jeszcze bardziej wartościowym członkiem zespołu. Zanim zacząłem mój pierwszy kurs nie wiedziałem 
+	że testowanie stanie sie moją pasją. Dziekuję za poświęcony czas na zapoznanie się z materiałami 
+	umieszczonymi na moim repozytorium Github.
 
 	Pozdrawiam Serdecznie 
 	Piotr Karakulski
