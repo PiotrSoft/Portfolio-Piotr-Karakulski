@@ -8,7 +8,7 @@ Cześć!
 	z zakresu testowania oprogramowania takie jak: proces testowy, zasady testowania, poziomy testów, 
 	typy testów, testowanie REST API (metody HTML), raportowanie błędów, tworzenie przypadków 
 	testowych, planu testów oraz odpowiednie programy (narzędzia) jak i wtyczki potrzebne do obsługi 
-	w/w zagadnień. Nie są mi obce techniki testowania jak: testowanie statyczne (analiza 
+	w/w zagadnień. Nie są mi obce techniki testowania jak: testowanie statyczne (analiza user stories 
 	dokumentacji i specyfikacji oraz wymagań interesariuszy, współpraca z developerami), a także 
 	testowanie exploracyjne jak i testowanie dynamiczne (uruchomienie już działąjącego kodu lub 
 	zaimplementowanego komponentu/funkcjonalności w celu wykrycia błędów, defektów i awarii). 
