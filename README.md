@@ -16,7 +16,7 @@ Cześć!
 	umiejętnościami na już wykupionych kursach, do wymarzonego przeze mnie poziomu Testera 
 	Automatyzującego z zakresu:
 	
-	- Selenium (Java)
+	- Selenium (Java) kurs został już rozpoczety
 	- Cypres (Java)
 	- WebdriverIO + Typescript 
 	- Jenkins (Java)
