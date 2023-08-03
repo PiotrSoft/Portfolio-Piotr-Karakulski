@@ -4,17 +4,13 @@ Cześć!
 
 	Witam serdecznie na moim repozytorium Github, umieściłem tutaj przykłady z użycia do tych 
 	czas zdobytej wiedzy i umiejętności w zakresie Testera Manualnego QA. Moim  dodatkowym 
-	atutem jest praktyczna znajomość SQL-a (częściowo już udokumentowana w repo). Znam zagadnienia 
-	z zakresu testowania oprogramowania takie jak: proces testowy, zasady testowania, poziomy testów, 
-	typy testów, testowanie REST API (metody HTML), raportowanie błędów, tworzenie przypadków 
-	testowych, planu testów oraz odpowiednie programy (narzędzia) jak i wtyczki potrzebne do obsługi 
-	w/w zagadnień. Nie są mi obce techniki testowania jak: testowanie statyczne (analiza user stories 
-	dokumentacji i specyfikacji oraz wymagań interesariuszy, współpraca z developerami), a także 
-	testowanie exploracyjne jak i testowanie dynamiczne (uruchomienie już działąjącego kodu lub 
-	zaimplementowanego komponentu/funkcjonalności w celu wykrycia błędów, defektów i awarii). 
-	Codziennie systematycznie szlifuję swoje umiejętności. Planuję też poszerzać swoją wiedzę wraz z 
-	umiejętnościami na już wykupionych kursach, do wymarzonego przeze mnie poziomu Testera 
-	Automatyzującego z zakresu:
+	atutem jest praktyczna znajomość SQL-a (częściowo już udokumentowana w repo). Nie są mi obce 
+ 	techniki testowania jak: testowanie statyczne (analiza user stories, dokumentacji, oraz wymagań 
+  	interesariuszy, współpraca z developerami), a także testowanie exploracyjne jak i testowanie 
+   	dynamiczne (uruchomienie już działąjącego kodu lub zaimplementowanego komponentu/funkcjonalności 
+    	w celu wykrycia błędów, defektów i awarii). Codziennie systematycznie szlifuję swoje umiejętności. 
+     	Poszerzam swoją wiedzę wraz z umiejętnościami na kursach Udemy, do wymarzonego 
+      	przeze mnie poziomu Testera Automatyzującego z zakresu:
 	
 	- Selenium (Java) kurs został już rozpoczęty
 	- Cypres (Java)
