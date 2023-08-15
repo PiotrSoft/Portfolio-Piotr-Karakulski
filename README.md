@@ -8,8 +8,8 @@ Cześć!
  	techniki testowania jak: testowanie statyczne (analiza user stories, dokumentacji, oraz wymagań 
   	interesariuszy, współpraca z developerami), a także testowanie exploracyjne jak i testowanie 
    	dynamiczne (uruchomienie już działąjącego kodu lub zaimplementowanego komponentu/funkcjonalności 
-    	w celu wykrycia błędów, defektów i awarii). Codziennie systematycznie szlifuję swoje umiejętności. 
-     	Poszerzam swoją wiedzę wraz z umiejętnościami na kursach Udemy, do wymarzonego 
+    	w celu wykrycia błędów, defektów i awarii). Codziennie systematycznie szlifuję swoje 
+     	umiejętności. Poszerzam swoją wiedzę wraz z umiejętnościami na kursach Udemy, do wymarzonego 
       	przeze mnie poziomu Testera Automatyzującego z zakresu:
 	
 	- Selenium (Java) kurs został już rozpoczęty
